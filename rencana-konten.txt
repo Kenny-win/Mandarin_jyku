@@ -3,10 +3,10 @@ rencana kontent:
 -- video javascript
   *ES6
   *Framewokjs
-  *Node Js
+  *Vue
+  *Angular
 -- php framework
-  *Laravel
-  *Codeigneter
+  *Framework PHP
 -- interview
 -- vlogs
 -- Struktur data dasar
