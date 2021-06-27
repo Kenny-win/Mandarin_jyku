@@ -1,0 +1,6 @@
+rencana kontent:
+
+-- video javascript
+-- php framework
+-- interview
+-- vlogs
