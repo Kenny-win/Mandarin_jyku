@@ -1,0 +1,3 @@
+halo nama saya jimhwang 
+saya baru belajar mengenai cara mengontrol vcs (version control system)
+sekarang saya sedang membuat repository kedua
