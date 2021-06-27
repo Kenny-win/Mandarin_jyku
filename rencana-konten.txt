@@ -1,6 +1,8 @@
 rencana kontent:
 
 -- video javascript
+  *ES6
+  *Framewokjs
 -- php framework
 -- interview
 -- vlogs
